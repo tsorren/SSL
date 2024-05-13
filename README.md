@@ -1,2 +1,5 @@
 # SSL
-TPs 2024 - Sintaxis y Semantica de los Lenguajes
+- Asignatura: Sintaxis y Semántica de los Lenguajes 
+- Alumno: Sorrentino Tadeo
+- Legajo: 214.153-0
+- Comisión: K2002
