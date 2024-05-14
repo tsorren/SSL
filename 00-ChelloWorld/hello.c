@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Hello ArchLinux!");
+    printf("Hello ArchLinux!\n");
     return 0;
 }
